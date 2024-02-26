@@ -1,2 +1,4 @@
+http://example.com/2024/02/26/cs2/
+http://example.com/2024/02/26/cs1/
 http://example.com/2024/02/26/hello-world/
 http://example.com/
