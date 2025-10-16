@@ -1,3 +1,4 @@
+http://example.com/2025/10/16/post/
 http://example.com/2025/09/26/%E6%8E%92%E6%AF%94/
 http://example.com/2025/08/18/%E8%B5%B0%E4%B8%8D%E5%87%BA%E5%8E%BB%E7%9A%84%E4%B8%80%E6%AD%A5/
 http://example.com/2025/06/09/%E5%AD%98%E5%9C%A8/
